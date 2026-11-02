@@ -1,11 +1,7 @@
 # 김성조 유작전 — 그림이 머물다 간 자리
 
-명도재 전용 온라인 전시. 전시: 2026년 12월 1–6일, 아양아트센터 전시실.
+명도재 전용 정적 전시 홈페이지. GitHub Pages에서 main 브랜치 /root를 배포하면 됩니다.
 
-## 이미지 등록
-루트 디렉터리에 `artist.jpg`(제공된 흑백 인물사진), `work-1.jpg`~`work-4.jpg`(원작 이미지)를 올리면 홈페이지에 자동으로 표시됩니다. 현재 이미지 파일은 아직 GitHub에 업로드되지 않았습니다. 원작 이미지 저작권 및 사용 권한을 확인하세요.
-
-## 공개 설정
-GitHub Settings → Pages → Build and deployment → Deploy from a branch → main / (root) → Save.
-
-예상 공개 주소: https://mmwwoo-lab.github.io/SEONGJO/ (Pages 설정 및 배포 완료 후에만 작동).
+- 2026.12.1–12.6 아양아트센터 전시실
+- 원본 작품 이미지 © Seongjo Museum. 사용 권한 확인 필요
+- poster-ai.png는 AI 창작 홍보 이미지이며 실제 김성조 화백의 원작이 아닙니다.
